@@ -1,5 +1,3 @@
 Primera prueba
 Me faltaba añadir esto 
-Añadimos desde developer
-
-Añado modificacion
+Añadimos desde developer, version 1
